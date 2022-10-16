@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-markdown-notes-app/static/css/main.5f039f56.css",
+    "main.js": "/react-markdown-notes-app/static/js/main.28fef952.js",
+    "index.html": "/react-markdown-notes-app/index.html",
+    "main.5f039f56.css.map": "/react-markdown-notes-app/static/css/main.5f039f56.css.map",
+    "main.28fef952.js.map": "/react-markdown-notes-app/static/js/main.28fef952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f039f56.css",
+    "static/js/main.28fef952.js"
+  ]
+}
